@@ -1,10 +1,10 @@
 :root{
-    --background: url('https://images5.alphacoders.com/542/542751.jpg');
+    --background: url('https://raw.githack.com/eki-github/Discordtheme/main/wallpapersden.com_mountains-and-cosmo-planets_3840x2160.jpg');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+    --primary1-colour: rgb(153, 0, 255);
+    --primary2-colour: rgba(153, 0, 255, 0.5);
+    --primary3-colour: rgba(153, 0, 255, 0.6);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
